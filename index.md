@@ -88,4 +88,5 @@ School Champion & World Top 25% of:
 1. Musical:   Piano; Guitar; Drums; Alto Sax; Chinese percussions, Singing, etc. 
 2. Sports:    Badminton; Skating. 
 3. Academics: Geometric problems solving; Learning  Japanese, French.
+
 <p-align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ivaeQN7OuPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
