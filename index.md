@@ -2,7 +2,7 @@
 lwz335886234@gmail.com
 
 ## EDUCATION
-**University of Waterloo**
+**University of Waterloo**\
 Major in Computer Science (Second year 2A)
 
 **Relavent Coursework**
