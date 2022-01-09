@@ -30,7 +30,7 @@ Major in Computer Science (Second year 2A)
 - President’s Scholarship of Distinction;
 - Mathematics International Students Entrance Scholarship; (University)
 
-School Champion & World Top 25% of: 
+  School Champion & World Top 25% of: 
 - Canadian Open Mathematics Competition;
 - Canadian Senior Mathematics Competition; 
 - Fermat Math Contest; 
@@ -39,21 +39,13 @@ School Champion & World Top 25% of:
 
 ## SKILLS
 **Technical Skills**
-- C++; 
-- Java; 
-- C; 
-- MySQL; 
-- R Studio; 
-- Racket; 
+- C++; Java; C; Racket;
+- MySQL; R Studio; 
 - MS office.\
 **Familiar Tools**
-- VSCode; 
-- IntelliJ IDEA; 
-- Navicat; 
-- Linux; 
-- Redis; 
-- Spring Boot; 
-- MyBatis.\
+- VSCode; IntelliJ IDEA; 
+- Navicat; Linux; Redis; 
+- Spring Boot; MyBatis.\
 **Personal Abilities**
 - Collaboration; 
 - Quick learning skills; 
