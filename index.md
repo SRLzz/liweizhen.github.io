@@ -42,10 +42,12 @@ Major in Computer Science (Second year 2A)
 - C++; Java; C; Racket;
 - MySQL; R Studio; 
 - MS office.\
+
 **Familiar Tools**
 - VSCode; IntelliJ IDEA; 
 - Navicat; Linux; Redis; 
 - Spring Boot; MyBatis.\
+
 **Personal Abilities**
 - Collaboration; 
 - Quick learning skills; 
@@ -82,6 +84,7 @@ Major in Computer Science (Second year 2A)
 - Tenor singer at Men’s Choir (2020). 
 - Badminton and Table Tennis Club member (2020). 
 - Staff Assistant for Jazz Band at Music By The Lake (2019).\
+
 **Interests**
 1. Musical: Piano; Guitar; Drums; Alto Sax; Chinese percussions, Singing, etc. 
 2. Sports: Badminton; Skating. 
