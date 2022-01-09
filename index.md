@@ -28,7 +28,7 @@ Major in Computer Science (Second year 2A)
 
 **Awards**
 - President’s Scholarship of Distinction;
-- Mathematics International Students Entrance Scholarship. (University)
+- Mathematics International Students Entrance Scholarship. (University)\
   School Champion & World Top 25% of: 
 - Canadian Open Mathematics Competition;
 - Canadian Senior Mathematics Competition; 
