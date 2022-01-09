@@ -3,7 +3,7 @@
     <td width="60%">
       <h1>Weizhen (Billy) Li</h1>
       <p><b>University of Waterloo</b></p>
-      <p><b>Computer Science Major (Second year 2A)</b></p>
+      <p><b>Computer Science Major</b></p>
       <p><b>Email1: w534li@uwaterloo.ca</b></p>
       <p><b>Email2: lwz335886234@gmail.com</b></p>
     </td>
@@ -41,12 +41,12 @@ Major in Computer Science (Second year 2A)
 **Technical Skills**
 - C++; Java; C; Racket;
 - MySQL; R Studio; 
-- MS office.\
+- MS office.
 
 **Familiar Tools**
 - VSCode; IntelliJ IDEA; 
 - Navicat; Linux; Redis; 
-- Spring Boot; MyBatis.\
+- Spring Boot; MyBatis.
 
 **Personal Abilities**
 - Collaboration; 
@@ -83,11 +83,11 @@ Major in Computer Science (Second year 2A)
 - Music instructor for the  musical “Newsies” (2020). 
 - Tenor singer at Men’s Choir (2020). 
 - Badminton and Table Tennis Club member (2020). 
-- Staff Assistant for Jazz Band at Music By The Lake (2019).\
+- Staff Assistant for Jazz Band at Music By The Lake (2019).
 
 **Interests**
-1. Musical: Piano; Guitar; Drums; Alto Sax; Chinese percussions, Singing, etc. 
-2. Sports: Badminton; Skating. 
+1. Musical:   Piano; Guitar; Drums; Alto Sax; Chinese percussions, Singing, etc. 
+2. Sports:    Badminton; Skating. 
 3. Academics: Geometric problems solving; Learning Japanese, French.
 
 
