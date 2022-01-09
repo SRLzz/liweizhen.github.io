@@ -87,7 +87,7 @@ School Champion & World Top 25% of:
 **Interests**
 1. Musical:   Piano; Guitar; Drums; Alto Sax; Chinese percussions, Singing, etc. 
 2. Sports:    Badminton; Skating. 
-3. Academics: Geometric problems solving; Learning Japanese, French.
+3. Academics: Geometric problems solving; Learning  Japanese, French.
 <div class="embed-container">
   <iframe
       src="https://youtube.com/embed/<ivaeQN7OuPA>"
