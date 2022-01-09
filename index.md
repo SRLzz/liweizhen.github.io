@@ -29,7 +29,7 @@ Major in Computer Science (Second year 2A)
 **Awards**
 - President’s Scholarship of Distinction;
 - Mathematics International Students Entrance Scholarship. (University)\
-  School Champion & World Top 25% of: 
+School Champion & World Top 25% of: 
 - Canadian Open Mathematics Competition;
 - Canadian Senior Mathematics Competition; 
 - Fermat Math Contest; 
@@ -90,7 +90,7 @@ Major in Computer Science (Second year 2A)
 3. Academics: Geometric problems solving; Learning Japanese, French.
 <div class="embed-container">
   <iframe
-      src="https://youtube.com/embed/ivaeQN7OuPA"
+      src="https://youtube.com/embed/<ivaeQN7OuPA>"
       width="700"
       height="480"
       frameborder="0"
