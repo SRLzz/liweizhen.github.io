@@ -90,7 +90,7 @@ Major in Computer Science (Second year 2A)
 2. Sports:    Badminton; Skating. 
 3. Academics: Geometric problems solving; Learning Japanese, French.
 <video width="320" height="240" controls>
-  <source type="video/mp4" src="https://robocop79.github.io/Websiteland//Twitter/FLT.mp4">
+  <source type="video/mp4" src="https://youtu.be/ivaeQN7OuPA">
 </video>
 
 
