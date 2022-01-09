@@ -45,7 +45,7 @@ School Champion & World Top 25% of:
 - MySQL; 
 - R Studio; 
 - Racket; 
-- MS office.
+- MS office.\
 **Familiar Tools**
 - VSCode; 
 - IntelliJ IDEA; 
@@ -53,7 +53,7 @@ School Champion & World Top 25% of:
 - Linux; 
 - Redis; 
 - Spring Boot; 
-- MyBatis.
+- MyBatis.\
 **Personal Abilities**
 - Collaboration; 
 - Quick learning skills; 
@@ -89,7 +89,7 @@ School Champion & World Top 25% of:
 - Music instructor for the  musical “Newsies” (2020). 
 - Tenor singer at Men’s Choir (2020). 
 - Badminton and Table Tennis Club member (2020). 
-- Staff Assistant for Jazz Band at Music By The Lake (2019). 
+- Staff Assistant for Jazz Band at Music By The Lake (2019).\
 **Interests**
 1. Musical: Piano; Guitar; Drums; Alto Sax; Chinese percussions, Singing, etc. 
 2. Sports: Badminton; Skating. 
