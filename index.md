@@ -1,5 +1,18 @@
 # Weizhen Li 
-lwz335886234@gmail.com
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Weizhen (Billy) Li</h1>
+      <p><b>University of Waterloo</b></p>
+      <p><b>Computer Science Major (Second year 2A)</b></p>
+      <p><b>Contact: lwz335886234@gmail.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
 
 ## EDUCATION
 **University of Waterloo （ON, Canada)**\
