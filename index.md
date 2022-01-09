@@ -1,14 +1,14 @@
 # Weizhen Li 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="60%">
       <h1>Weizhen (Billy) Li</h1>
       <p><b>University of Waterloo</b></p>
       <p><b>Computer Science Major (Second year 2A)</b></p>
       <p><b>Contact: lwz335886234@gmail.com</b></p>
     </td>
     <td width="25%">
-      <img src="/billy.jpg" width="100%">      % 插入证件照代码
+      <img src="/billy.jpg" width="100%">
     </td>
   </tr>
 </table>
