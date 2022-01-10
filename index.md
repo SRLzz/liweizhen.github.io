@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="50%">
       <h1>Weizhen (Billy) Li</h1>
       <p><b>University of Waterloo</b></p>
       <p><b>Computer Science Major</b></p>
