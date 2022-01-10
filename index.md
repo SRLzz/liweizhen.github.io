@@ -6,7 +6,7 @@
       <p><b>Computer Science Major</b></p>
       <p><b>Email: w534li@uwaterloo.ca</b></p>
     </td>
-    <td width="25%">
+    <td width="15%">
       <img src="/billy.jpg" width="100%">
     </td>
   </tr>
