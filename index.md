@@ -4,8 +4,7 @@
       <h1>Weizhen (Billy) Li</h1>
       <p><b>University of Waterloo</b></p>
       <p><b>Computer Science Major</b></p>
-      <p><b>Email1: w534li@uwaterloo.ca</b></p>
-      <p><b>Email2: lwz335886234@gmail.com</b></p>
+      <p><b>Email: w534li@uwaterloo.ca</b></p>
     </td>
     <td width="25%">
       <img src="/billy.jpg" width="100%">
