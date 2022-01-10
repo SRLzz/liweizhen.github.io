@@ -60,15 +60,14 @@ School Champion & World Top 25% of:
 ### Shenyang Linktech (Shenyang, Liaoning Province, China) Sep. – Dec. 2020
 ***Java Development Engineer Intern:***
 -	Build structures and implement interface for company’s temporary online activity codes.
--	Access and manage the main database, and update information if necessary, sometimes with\
-  the tools that were implemented by myself.
+-	Access and manage the main database, and update information if necessary.
+-	Implement tools using Spring Boot and MySQL commands to assist co-workers for managing selected\
+  database, which will be helpful to save some time for our programming of the main project\
+  (supported by China Unicom Liaoning branch) that Linktech was working on.
 -	Handle technical complaints from China Unicom (Liaoning area) customers. 
 
 
 ## RELAVENT PROJECTS
--	Implement tools using Spring Boot and MySQL commands to assist co-workers for managing selected\
-  database, which will be helpful to save some time for our programming of the main project\
-  (supported by China Unicom Liaoning branch) that Linktech was working on. (2021)
 - Github personal introduction page using Markdown and HTML. (2022)
 -	Biquadris, the game of Tetris. Program contains blocks, boards, etc. in a decorator pattern.\
   Written in C++. (This game used to be the final project of a school course.) (2021)
