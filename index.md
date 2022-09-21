@@ -15,13 +15,14 @@
 
 ## EDUCATION
 **University of Waterloo （ON, Canada)**\
-Major in Computer Science (Second year 2A)
+Major in Computer Science (Second year 3A)
 
 **Relavent Coursework**
-- Computer Organization and Design; 
+- Operating Systems;
+- User Interface;
+- Numerical Computation;
 - Data Structures and Data Management; 
 - Foundations of Sequential Programs; 
-- Logic and Computation; 
 - Object-Oriented Software Development; 
 - Statistics.
 
@@ -37,7 +38,7 @@ School Champion & World Top 25% of:
 
 ## SKILLS
 **Technical Skills**
-- C++; Java; C; Racket;
+- C++; Java; C; Racket; Python; JS;
 - MySQL; R Studio; 
 - MS office.
 
@@ -65,9 +66,25 @@ School Champion & World Top 25% of:
   (supported by China Unicom Liaoning branch) that Linktech was working on.
 -	Handle technical complaints from China Unicom (Liaoning area) customers. 
 
+### Inossem (Montreal, Quebec, Canada) May. – Aug. 2022
+***Java Developer:***
+- Implement interfaces for company’s projects, add and modify abilities to the web- application on back end.
+- Access and manage the main databases, and update information according to the given Excel form(once tried Python Crawler).
+- Collaborate with colleagues for testing on Postman.
+- Write documentation and user manual for the whole project, while accessing the web-
+application and reading the front-end code was necessary.
+
 
 ## RELAVENT PROJECTS
 - Github personal introduction page using Markdown and HTML. (2022)
+- Android Application of a music player written in Java (Android Studio).\
+  It can play downloaded music (in the Android phone emulator sdcard) after clicking, with an icon spinning in the middle.\
+  It has a process bar at the  bottom, with previous song, next song, and pause buttons above.\
+  Still working on the functions of creating playlists, presenting the album and the singer information, rhythm bars animation,\
+  and sorting songs from most listened to least, also working on Kotlin. (2022)
+- Web application of writing notes in Python (Django, HTML).\
+  It has the login, logout, and sign-up abilities, as well as creating note pieces after logged in.\
+  Still working on how to beautify the UI and the functions of placing notes in groups. (2022)
 -	Biquadris, the game of Tetris. Program contains blocks, boards, etc. in a decorator pattern.\
   Written in C++. (This game used to be the final project of a school course.) (2021)
 -	Mock Email server and client, which imitates the actual email abilities. Written in Java,\
