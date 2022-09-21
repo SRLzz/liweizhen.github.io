@@ -57,6 +57,15 @@ School Champion & World Top 25% of:
 
 
 ## WORK EXPERIENCE
+### Inossem (Montreal, Quebec, Canada) May. – Aug. 2022
+***Java Developer:***
+- Implement interfaces for company’s projects, add and modify abilities to the web- application on back end.
+- Access and manage the main databases, and update information according to the given Excel form(once tried Python Crawler).
+- Collaborate with colleagues for testing on Postman.
+- Write documentation and user manual for the whole project, while accessing the web-
+application and reading the front-end code was necessary.
+
+
 ### Shenyang Linktech (Shenyang, Liaoning Province, China) Sep. – Dec. 2020
 ***Java Development Engineer Intern:***
 -	Build structures and implement interface for company’s temporary online activity codes.
@@ -65,14 +74,6 @@ School Champion & World Top 25% of:
   database, which will be helpful to save some time for our programming of the main project\
   (supported by China Unicom Liaoning branch) that Linktech was working on.
 -	Handle technical complaints from China Unicom (Liaoning area) customers. 
-
-### Inossem (Montreal, Quebec, Canada) May. – Aug. 2022
-***Java Developer:***
-- Implement interfaces for company’s projects, add and modify abilities to the web- application on back end.
-- Access and manage the main databases, and update information according to the given Excel form(once tried Python Crawler).
-- Collaborate with colleagues for testing on Postman.
-- Write documentation and user manual for the whole project, while accessing the web-
-application and reading the front-end code was necessary.
 
 
 ## RELAVENT PROJECTS
