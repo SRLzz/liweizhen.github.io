@@ -81,8 +81,7 @@ application and reading the front-end code was necessary.
 - Android Application of a music player written in Java (Android Studio).\
   It can play downloaded music (in the Android phone emulator sdcard) after clicking, with an icon spinning in the middle.\
   It has a process bar at the  bottom, with previous song, next song, and pause buttons above.\
-  Still working on the functions of creating playlists, presenting the album and the singer information, rhythm bars animation,\
-  and sorting songs from most listened to least, also working on Kotlin. (2022)
+  Still working on the functions of creating playlists, presenting the album and the singer information, rhythm bars animation, and sorting songs from most listened to least, also working on Kotlin. (2022)
 - Web application of writing notes in Python (Django, HTML).\
   It has the login, logout, and sign-up abilities, as well as creating note pieces after logged in.\
   Still working on how to beautify the UI and the functions of placing notes in groups. (2022)
