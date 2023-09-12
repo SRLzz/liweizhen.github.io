@@ -21,7 +21,9 @@ Major in Computer Science (Second year 3A)
 - Operating Systems;
 - User Interface;
 - Numerical Computation;
-- Data Structures and Data Management; 
+- Data Structures and Data Management;
+- Algorithms;
+- Human-Computer Interaction;
 - Foundations of Sequential Programs; 
 - Object-Oriented Software Development; 
 - Statistics.
@@ -38,12 +40,12 @@ School Champion & World Top 25% of:
 
 ## SKILLS
 **Technical Skills**
-- C++; Java; C; Racket; Python; JS;
+- C++; Java; C; Kotlin; MySQL; Racket; R; MS office; Python; JS; Vue;
 - MySQL; R Studio; 
 - MS office.
 
 **Familiar Tools**
-- VSCode; IntelliJ IDEA; 
+- GitHub; VSCode; IntelliJ IDEA; 
 - Navicat; Linux; Redis; 
 - Spring Boot; MyBatis.
 
@@ -57,27 +59,20 @@ School Champion & World Top 25% of:
 
 
 ## WORK EXPERIENCE
+### Ford Motor (Waterloo, Ontario, Canada) Jan. – Apr. 2023: 
+***Android HMI Software Developer:***
+- Implementing widgets, animations, ability pages, etc. for car interior screen theming. 
 ### Inossem (Montreal, Quebec, Canada) May. – Aug. 2022
 ***Java Developer:***
-- Implement interfaces for company’s projects, add and modify abilities to the web- application on back end.
-- Access and manage the main databases, and update information according to the given Excel form(once tried Python Crawler).
-- Collaborate with colleagues for testing on Postman.
-- Write documentation and user manual for the whole project, while accessing the web-
-application and reading the front-end code was necessary.
-
-
+- Creating interfaces, add and modify abilities to the web-application. 
 ### Shenyang Linktech (Shenyang, Liaoning Province, China) Sep. – Dec. 2020
 ***Java Development Engineer Intern:***
--	Build structures and implement interface for company’s temporary online activity codes.
--	Access and manage the main database, and update information if necessary.
--	Implement tools using Spring Boot and MySQL commands to assist co-workers for managing selected\
-  database, which will be helpful to save some time for our programming of the main project\
-  (supported by China Unicom Liaoning branch) that Linktech was working on.
--	Handle technical complaints from China Unicom (Liaoning area) customers. 
+-	Creating interfaces, database, and technical issues solving. 
 
 
 ## RELAVENT PROJECTS
-- Github personal introduction page using Markdown and HTML. (2022)
+- Github personal introduction page using Markdown and HTML. (2022)\
+- Built a Kotlin notepad app with core features like adding, deleting, editing, and retrieving notes, including content highlighting and time-based note sorting. (2022)\
 - Android Application of a music player written in Java (Android Studio).\
   It can play downloaded music (in the Android phone emulator sdcard) after clicking, with an icon spinning in the middle.\
   It has a process bar at the  bottom, with previous song, next song, and pause buttons above.\
