@@ -15,10 +15,11 @@
 
 ## EDUCATION
 **University of Waterloo （ON, Canada)**\
-Major in Computer Science (Second year 3A)
+Major in Computer Science (Second year 4A)
 
 **Relavent Coursework**
 - Operating Systems;
+- HMI;
 - User Interface;
 - Numerical Computation;
 - Data Structures and Data Management;
